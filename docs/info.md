@@ -8,12 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+a simple electronic safe
 
 ## How to test
 
-Explain how to use your project
+first flip the switch will you flip the switch it will pop up a title it will say unlocked click the tiktok toe when you do it it will prompt you to give it's pin 
 
 ## External hardware
 
